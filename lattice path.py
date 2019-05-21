@@ -4,7 +4,7 @@
 # In[15]:
 
 
-my_list=[['']*21for x in range(21)]
+my_list=[['']*21 for x in range(21)]
 
 
 
